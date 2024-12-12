@@ -1,5 +1,5 @@
 {
-    "name": "markmercedes/trest",
+    "name": "zoiloreyes/trest",
     "type": "library",
     "keywords": ["TRest","ORM", "Restful"],
     "description": "TRest is an ORM that maps REST resources to PHP objects. Designed to use in applications that need to consume data from a RESTful API.",
