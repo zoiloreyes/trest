@@ -53,6 +53,6 @@ class Request extends RequestProperties {
         foreach($parameters as $key => $values) {
             $params[] = "$key=$values";
         }
-        return implode( $params, '&' );
+        return implode( '&', $params );
     }
 }
